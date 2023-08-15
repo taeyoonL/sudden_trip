@@ -9,10 +9,15 @@ import UIKit
 
 class offer_2_ViewController: UIViewController {
 
+    
+    @IBOutlet var offer_2_title: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        offer_2_title.layer.cornerRadius = 20
+        offer_2_title.layer.masksToBounds = true
     }
     
 
