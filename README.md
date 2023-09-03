@@ -46,8 +46,8 @@
 ## App design currently planned
 
 1. 실행 화면
-
-![ezgif com-video-to-gif (26)](https://github.com/taeyoonL/Project_Sudden_trip/assets/132141316/415cd07d-a23d-4193-9192-1650ad5ff5da)
+   
+![ezgif com-video-to-gif (26)](https://github.com/taeyoonL/sudden_trip/assets/132141316/00d765f4-46b1-48ca-ace1-1765c81bf879)
 
 2. 로딩 화면
 
