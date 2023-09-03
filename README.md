@@ -55,5 +55,5 @@
 
 3. 설문 조사 화면 (설문 조사 구현할 때 참고)
 
-<img width="384" alt="스크린샷 2023-08-11 오후 1 24 47" src="https://github.com/taeyoonL/Project_Sudden_trip/assets/132141316/b215d8d2-c72c-4493-b6b9-e457396bbe1d">
+<img width="384" alt="스크린샷 2023-08-11 오후 1 24 47" src="https://github.com/taeyoonL/sudden_trip/assets/132141316/69c8233d-d71b-4084-bc70-3925eff6b3bd">
 <img width="384" alt="스크린샷 2023-08-11 오후 1 24 57" src="https://github.com/taeyoonL/Project_Sudden_trip/assets/132141316/40067f20-e013-4d73-bb5f-59b1dfe42c11">
