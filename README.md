@@ -51,7 +51,7 @@
 
 2. 로딩 화면
 
-<img width="290" alt="스크린샷 2023-08-11 오전 1 38 31" src="https://github.com/taeyoonL/Project_Sudden_trip/assets/132141316/abec6d01-9c64-4d10-a688-bbbae602558d">
+<img width="286" alt="스크린샷 2023-08-10 오후 8 35 06" src="https://github.com/taeyoonL/sudden_trip/assets/132141316/33068fb2-528a-4609-b58f-35f8c68e10f3">
 
 3. 설문 조사 화면 (설문 조사 구현할 때 참고)
 
